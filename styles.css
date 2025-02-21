@@ -101,7 +101,7 @@ h2{
     
 }
 .box-blue{
-    border: 2px solid #3882f6;
+    border: 5px solid #3882f6;
     width: 200px;
     height: 200px;
     border-radius: 5px;
@@ -114,4 +114,21 @@ h2{
 .p-second{
     text-align: center;
     font-size: 18px;
+}
+.third-section{
+    background-color: darkcyan;
+    height:  300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+i{
+    font-size: xx-large;
+    font-weight: lighter;
+    color: darkblue;
+}
+.p-third{
+    font-size: 22px;
+    color: #1f2937;
 }
