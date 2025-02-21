@@ -129,6 +129,14 @@ i{
     color: darkblue;
 }
 .p-third{
-    font-size: 22px;
+    font-size: 24px;
     color: #1f2937;
+    text-align: center;
+    margin-left: 325px;
+}
+.last-div{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
